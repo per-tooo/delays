@@ -1,0 +1,3 @@
+# KEEP IN LF!
+# cronjobs for user root
+*/5 * * * * /usr/bin/python3 /root/main.py 8010220 >> ~/cron.log
